@@ -1,0 +1,179 @@
+body{
+	position: absolute;
+    width: 600px;
+    height: 600px;
+    background: #A7D7C5;
+}
+.big-div{
+
+    position: absolute;
+    width: 600px;
+    height: 560px;
+    left: 320px;
+    background: #F6FBF9;
+    border-radius: 49.0901px;
+} 
+
+.small-title .head{
+    position: absolute;
+    width: 483.23px;
+    height: 72px;
+    left: 65px;
+    top: 5px;
+
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43px;
+    line-height: 72px;
+ 
+
+    text-align: center;
+
+    color: #212B27;
+
+}
+
+.small-title .iner-text{
+     position: absolute;
+     width: 472.49px;
+     height: 59.83px;
+     left:  65px;
+     top:  100px;
+
+     font-family: Karla;
+     font-style: normal;
+     font-weight: normal;
+     font-size:  19px;
+     line-height: 30px;
+ 
+     text-align: center;
+
+     color: #32403B;
+
+}
+
+input{
+    position: absolute;
+    width: 400px;
+    height:  50px;
+    left: 80px;
+    padding-left: 30px;
+    background: #FFFFFF;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 15.3407px;
+}
+
+ 
+input[name=email]{
+    top: 210px;
+}
+input[name=password]{
+    top: 280px;
+}
+.create-div{
+    position: absolute;
+    width:  300px;
+    height:  60px;
+    left:   145px;
+    top: 360px;
+
+    background: #84C7AE;
+    border-radius: 23.011px;
+
+}
+
+.text{
+   position: absolute;
+   width: 260px;
+   height:  23.01px;
+   left:  23px;
+   top:  -20px;
+
+   font-family: karla;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 26.7495px;
+   line-height: 44px;
+
+   text-align: center;
+
+    color: #FFFFFF;
+}
+
+.small-text{
+     position: absolute;
+     width: 326.76px;
+     height: 29.15px;
+     left: 125px;
+     top: 415px;
+   font-family: Karla;
+   font-weight: normal;
+   font-size: 21.4769px
+   line-height: 28px;
+ 
+
+   text-align: center;
+
+ 
+
+   color: #32403B;
+}
+
+.Box{
+    position: absolute;
+    width: 490px;
+    height: 240px;
+    left: -180px;
+    top: 79.33px;
+
+ 
+
+   background: #C1E3D6;
+   border-radius: 160px;
+   transform: rotate(-45deg);
+
+}
+
+.Box-2{
+    position: absolute;
+    width: 400px;
+    height:  240px;
+    left: 907px;
+    top: -100px;
+
+
+
+   background: #C1E3D6;
+   border-radius: 160px;
+   transform: rotate(-45deg);
+}
+
+.box1{
+    position: absolute;
+    width: 400px;
+    height: 240px;
+    left: -100px;
+    top: 270px;
+
+ 
+
+   background: #C1E3D6;
+   border-radius: 160px;
+   transform: rotate(-45deg);
+}
+
+.box2{
+    position: absolute;
+    width: 400px;
+    height:  235px;
+    left: 907px;
+    top: 100px;
+
+
+
+   background: #C1E3D6;
+   border-radius: 160px;
+   transform: rotate(-45deg);
+}
